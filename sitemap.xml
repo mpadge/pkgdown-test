@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/404.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/articles/test.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mpadge.github.io/pkgdown-test/reference/test-package.html</loc>
+  </url>
+</urlset>
