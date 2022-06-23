@@ -9,7 +9,7 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-```{r fig, child = "child-docs/child-doc.Rmd", eval = TRUE, echo = FALSE}
+```{r fig, child = "child-docs/_child-doc.Rmd", eval = TRUE, echo = FALSE}
 ```
 
 That should work.
