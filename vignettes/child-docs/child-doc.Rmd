@@ -1,0 +1,4 @@
+
+```{r fig, echo = FALSE, out.width = 700}
+plot (runif (10))
+```

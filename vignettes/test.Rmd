@@ -1,0 +1,15 @@
+---
+title: "Test vignette"
+author: "Mark Padgham"
+date: "`r Sys.Date()`"
+output: html_document
+vignette: >
+  %\VignetteIndexEntry{test}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r fig, child = "child-docs/child-doc.Rmd", eval = TRUE, echo = FALSE}
+```
+
+That should work.

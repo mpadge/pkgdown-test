@@ -1,0 +1,16 @@
+Package: test
+Title: Just a test
+Version: 0.0.1
+Authors@R: 
+    person("Mark", "Padgham", , "mark.padgham@email.com", role = c("aut", "cre"))
+Description: Nothing to see here.
+License: GPL-3
+URL: https://github.com/mpadge/pkgdown-test
+BugReports: https://github.com/mpadge/pkgdown-test/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+RoxygenNote: 7.2.0

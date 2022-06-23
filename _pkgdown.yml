@@ -1,0 +1,7 @@
+url: https://mpadge.github.io/pkgdown-test
+template:
+  bootstrap: 5
+articles:
+  - title: test
+    contents:
+    - test
